@@ -6,7 +6,7 @@ This project transforms raw transactional data into a strategic **Power BI Dashb
 ---
 
 ## 🖼️ Interactive Dashboard View
-![Final Dashboard Screenshot](images/your_screenshot_name.png)
+![Final Dashboard Screenshot](dashboard.png)
 > *Note: Download the .pbix file in this repo to explore the interactive filters.*
 
 ---
